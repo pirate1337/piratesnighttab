@@ -2,4 +2,4 @@
 
 This is my config for NightTab. Enjoy.
 
-![NightTab Demo](assets/Screenshot_3)
+![Preview](https://raw.githubusercontent.com/pirate1337/piratesnighttab/master/assets/Screenshot_3.png)
