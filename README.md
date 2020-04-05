@@ -1,5 +1,5 @@
-### Please download and intall [this](https://github.com/zombieFox/nightTab) addon for your browser.
+### Please download and install [this](https://github.com/zombieFox/nightTab) addon for your browser.
 
-This is my config for NighTab. Enjoy.
+This is my config for NightTab. Enjoy.
 
-[![nightTab Demo](assets/Screenshot_3)](https://github.com/pirate1337/piratesnighttab)
+![NightTab Demo](assets/Screenshot_3)
